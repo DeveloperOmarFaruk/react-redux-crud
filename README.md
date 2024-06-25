@@ -4,7 +4,7 @@
 #
 ## Project Details
 #
-Employee information add has been worked on this repository. Using the data get method from the backend to show in UI and using the data post method from the user to send backend data and show new data in UI.
+Employee information add has been worked on this repository. Using the data get method from the backend to show in UI and using the data post method from the user to send backend data and show new data in UI. In this repository project, the user can filter by gender or search by name to find employees.
 #
 ### `Technology Use`
 #
