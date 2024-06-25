@@ -1,70 +1,65 @@
-# Getting Started with Create React App
+ # Here is some UI and work shown in this repository
+#
+[Live Preview Project](https://react-redux-crud-project.netlify.app/)
+#
+## Project Details
+#
+Employee information add has been worked on this repository. Using the data get method from the backend to show in UI and using the data post method from the user to send backend data and show new data in UI.
+#
+### `Technology Use`
+#
+1. React JS
+2. React Redux
+3. Redux Toolkit
+4. JSX
+5. React Hooks
+6. React Router
+7. React Router Dom
+8. Axios
+9. RESTful APIs
+10. MockAPI.io
+11. HTML5
+12. Bootstrap5
+13. Font Awesome
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+#
+### `Project Deploy`
+#
+Netlify
 
-## Available Scripts
+#
+### `Project Pages`
+#
+1. Employee List Page
+2. Employee Add Page
+3. Employee Update Page
+4. Error Page
 
-In the project directory, you can run:
 
-### `npm start`
+#
+### `Employee List Page`
+#
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+![image](https://github.com/DeveloperOmarFaruk/react-redux-crud/assets/75971859/39ab8e8f-906f-4e58-a6dc-fd39e116e458)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+#
+### `Employee Add Page`
+#
+![image](https://github.com/DeveloperOmarFaruk/react-redux-crud/assets/75971859/05e66581-e0c2-4549-b78e-f30ae7d613a7)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+#
+### `Employee Update Page`
+#
+![image](https://github.com/DeveloperOmarFaruk/react-redux-crud/assets/75971859/81ff2cfe-a465-4ed2-bf88-c748d18c9e38)
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+#
+### `Error Page`
+#
+![image](https://github.com/DeveloperOmarFaruk/react-redux-crud/assets/75971859/cb622e9a-9268-4caf-a373-c017780bdade)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+#
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
