@@ -40,7 +40,8 @@ Netlify
 ### `Employee List Page`
 #
 
-![image](https://github.com/DeveloperOmarFaruk/react-redux-crud/assets/75971859/39ab8e8f-906f-4e58-a6dc-fd39e116e458)
+![image](https://github.com/DeveloperOmarFaruk/react-redux-crud/assets/75971859/cedb1f8b-612a-4825-8e55-94b290f45220)
+
 
 
 #
