@@ -83,6 +83,7 @@ const EmployeeList = () => {
         <div style={{ margin: "4rem 0rem" }}>
           <table className="table">
             <thead>
+              <th>S. No.</th>
               <th>Name</th>
               <th>Email</th>
               <th>Phone</th>
@@ -111,8 +112,9 @@ const EmployeeList = () => {
                         .includes(searchData.toLowerCase());
                     }
                   })
-                  .map((item) => (
+                  .map((item, index) => (
                     <tr key={item.id}>
+                      <td data-label="S. No.">{index + 1}</td>
                       <td data-label="Name">{item.name}</td>
                       <td data-label="Email">{item.email}</td>
                       <td data-label="Phone">{item.phone}</td>
